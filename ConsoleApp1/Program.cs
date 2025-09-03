@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine(DateTime.Now + " är klockan i Sumpan");
+            Console.WriteLine($"Tiden i Stockholm är {DateTime.Now}";
         }
     }
 }
